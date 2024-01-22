@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 40px;
+    font-family: Arial;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    background-color: blue;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 30;
+    font-family: Arial;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    color: purple;
+    background-color: orange;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+    color: red;
+    background-color: green;
 }
 
 .logo {
     background-size: cover;
     background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-color: green;
+    height: 32px;
+    width: 20px;
 }
